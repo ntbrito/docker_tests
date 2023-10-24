@@ -1,0 +1,6 @@
+{
+  "policies": ["frontend"],
+  "meta": {
+    "user": "frontend"
+  }
+}

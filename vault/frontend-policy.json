@@ -1,0 +1,3 @@
+{
+  "policy": "# Manage access to frontend secrets in UAT \npath \"kv/data/uat/*\" {\n capabilities = [\"create\", \"read\", \"update\", \"delete\", \"list\"]\n}\n # Manage access to frontend secrets in Prod \npath \"kv/data/prod/*\" \n{\n capabilities = [\"create\", \"read\", \"update\", \"delete\", \"list\"]\n}\n# List data in datastorage \npath \"kv/*\" \n{\n capabilities = [\"read\", \"list\"]\n}"
+}

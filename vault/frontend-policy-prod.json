@@ -1,0 +1,3 @@
+{
+  "policy": "# Manage access to frontend secrets in Prod \npath \"kv/data/prod/*\" {\n capabilities = [\"create\", \"read\", \"update\", \"delete\", \"list\"]}"
+}

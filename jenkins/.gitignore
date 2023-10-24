@@ -1,0 +1,5 @@
+.idea
+*.bak
+*.backup
+*id_rsa*
+secrets.json
