@@ -1,5 +1,0 @@
-{
-  "token_policies": "frontend",
-  "token_ttl": "30m",
-  "token_max_ttl": "1h"
-}

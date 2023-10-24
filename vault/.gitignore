@@ -1,6 +1,0 @@
-.idea
-*.bak
-*.backup
-*id_rsa*
-secrets
-ssl

@@ -1,4 +1,0 @@
-useradd jenkins
-usermod -a -G docker jenkins
-usermod -d /efsvolume/jenkins/home jenkins
-chown -R jenkins:jenkins /efsvolume/jenkins/home/

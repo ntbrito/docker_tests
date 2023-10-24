@@ -1,3 +1,0 @@
-{
-  "policy": "# Manage access to frontend secretes in UAT \npath \"kv/data/uat/*\" {\n  capabilities = [\"create\", \"read\", \"update\", \"delete\", \"list\"]\n}"
-}
